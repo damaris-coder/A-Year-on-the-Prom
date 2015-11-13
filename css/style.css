@@ -209,7 +209,7 @@ footer p {
 /* making the site responsive - max witdh 800px */
 
 
-@media (max-width: 800px) {
+@media (max-width: 480px) {
 
   /* apply styling to the painitng boxes */
 
